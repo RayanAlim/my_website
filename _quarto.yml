@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Rayan Awad Alim"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+format:
+  html:
+    theme: journal
+    css: styles.css
+    toc: true
+
+editor: visual
+
+execute: 
+  freeze: auto
+  

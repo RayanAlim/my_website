@@ -1,0 +1,9 @@
+---
+title: "Rayan Awad Alim"
+---
+
+Hello!
+
+My name is Rayan Awad Alim, I am a final Year Computer Science, bioinformatics and statistics minor student at the University of Toronto!
+
+LinkedIn: <https:///linkedin.com/in/rayanalim>
